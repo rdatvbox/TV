@@ -188,7 +188,9 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 #EXTINF:0,81 , TBN Enlace 
 
-http://8.242.126.186:7000/play/a05t/index.m3u8
+https://1-349-11554-1.b.cdn13.com/EnlaceTV/smil:enlace-FullHD.smil/chunklist_b1712000_sleng.m3u8
+
+
 
 #EXTINF:0,82 , Canal Nuevo Tiempo 
 
@@ -196,7 +198,7 @@ https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 
 #EXTINF:0,83,  ESNE
 
-http://8.242.126.186:7000/play/a024/index.m3u8
+https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/defEvent_1_288/hdntl=exp=1684680523~acl=%2f*~data=hdntl~hmac=c9f830cdbd03783f9041c5bb9e35db5bc321dc0307fcc81cdd930a2b6faf966f/chunklist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=6468ddc466d5dc0001b04a19&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1684680516%7Eacl%3D%2F*2041519%2F*%7Ehmac%3De569895d9e3e18f32c53cb7a766b4584787670ff06f742ca5ea469c94414b1e2
 
 #EXTINF:0,84 , Telemundo Internacional
 
