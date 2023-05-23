@@ -212,9 +212,13 @@ http://latinoamericatv.vip:3334/live/Ruben680ES/680680/69268.ts
 
 http://latinoamericatv.vip:3334/live/Ruben680ES/680680/81285.ts
 
-#EXTINF:0,87 , TV Chile
+#EXTINF:0,87 , TVN Chile
+
+http://latinoamericatv.vip:3334/live/Ruben680ES/680680/156187.ts
 
 #EXTINF:0,89 , Ve Plus
+
+http://latinoamericatv.vip:3334/live/Ruben680ES/680680/110925.ts
 
 #EXTINF:0,85 , TN HD 
 
