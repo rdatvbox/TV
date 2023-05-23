@@ -546,7 +546,11 @@ http://45.5.117.182:8000/play/a0ez/index.m3u8
 
 #EXTINF:0,410 , Sun Channel
 
+http://latinoamericatv.vip:3334/live/Ruben680ES/680680/156183.ts
+
 #EXTINF:0,411 , El Gourmet HD
+
+http://latinoamericatv.vip:3334/live/Ruben680ES/680680/156146.ts
 
 #EXTINF:0,412 , Gusto TV HD
 
@@ -562,6 +566,8 @@ http://latinoamericatv.vip:3334/live/Ruben680ES/680680/53458.ts
 
 #EXTINF:0,451 , Animal Planet HD
 
+http://latinoamericatv.vip:3334/live/Ruben680ES/680680/54172.ts
+
 #EXTINF:0,452 , National Geographic HD
 
 http://latinoamericatv.vip:3334/live/Ruben680ES/680680/53491.ts
@@ -573,6 +579,8 @@ http://latinoamericatv.vip:3334/live/Ruben680ES/680680/53491.ts
 http://45.170.243.55:4000/play/a01g/index.m3u8
 
 #EXTINF:0,460 , History Channel HD
+
+http://latinoamericatv.vip:3334/live/Ruben680ES/680680/53481.ts
 
 #EXTINF:0,470 , Theater Discovery HD
 
@@ -586,7 +594,7 @@ http://latinoamericatv.vip:3334/live/Ruben680ES/680680/53470.ts
 
 http://latinoamericatv.vip:3334/live/Ruben680ES/680680/53464.ts
 
-#EXTINF:0,473 , SCI DISCOVERY Civilization HD
+#EXTINF:0,473 , SCI DISCOVERY Familia HD
 
 http://latinoamericatv.vip:3334/live/Ruben680ES/680680/53473.ts
 
@@ -595,6 +603,8 @@ http://latinoamericatv.vip:3334/live/Ruben680ES/680680/53473.ts
 http://latinoamericatv.vip:3334/live/Ruben680ES/680680/53492.ts
 
 #EXTINF:0,475 , History 2 HD
+
+http://latinoamericatv.vip:3334/live/Ruben680ES/680680/53483.ts
 
 #EXTINF:0,500 , HEi HD
 
@@ -676,7 +686,8 @@ http://45.5.117.182:8000/play/a0k2/index.m3u8
 
 #EXTINF:0,562 , Arirang
 
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
 #EXTINF:0,563 , NNK Word Japan
 
-http://45.179.193.219:5000/play/a0f5
-
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
