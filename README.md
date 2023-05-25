@@ -20,15 +20,15 @@ http://200.41.79.165:8000/play/a0hy/index.m3u8
 
 #EXTINF:0,8 , Unicanal HD
 
-http://45.55.127.106/live/unicanal_mid.m3u8
+https://rds3gen.desdeparaguay.net/unicanal/unicanal_baja/playlist.m3u8?k=cabf832941e632f62309722b14486e7569116dc59b8e3b2e9435900b6bd06f0e&exp=1685038246
 
 #EXTINF:0,9 , SNT HD
 
-https://d4xunn272arip.cloudfront.net/hls/snt.m3u8
+https://d1263956mchuq3.cloudfront.net/hls/snt_270.m3u8
 
 #EXTINF:0,10 , TRECE HD
 
-https://streaming.trece.com.py/live/trece.m3u8
+https://rds3gen.desdeparaguay.net/trecetv/trecetv_baja/playlist.m3u8?k=0dc7fff9985f5f974e16b01a3eb47fd2a58c305c25b2c019e534612e98d63e20&exp=1685038572
 
 #EXTINF:0,11 , La Tele HD
 
@@ -40,7 +40,7 @@ https://rds3gen.desdeparaguay.net/gentv/gentv_int_baja/chunklist_w967265908.m3u8
 
 #EXTINF:0,13 , C9N HD
 
-https://d4xunn272arip.cloudfront.net/hls/c9n.m3u8
+https://d1263956mchuq3.cloudfront.net/hls/c9n.m3u8
 
 #EXTINF:0,14 , PRO HD 
 
