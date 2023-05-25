@@ -86,6 +86,8 @@ https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
 
 #EXTINF:0,30 , Nihon Gakko TV
 
+https://59ce1298bfb98.streamlock.net/ngtv/ngtv/chunklist_w1520616514.m3u8
+
 #EXTINF:0,40 , Mas TV HD 
 
 #EXTINF:0,41 , Canal 2 HD 
