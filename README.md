@@ -73,7 +73,7 @@ https://59ce1298bfb98.streamlock.net/educanal/educanal/chunklist_w92056851.m3u8
 http://200.108.135.245:8000/play/a24py
 
 #EXTINF:0,23 , Unión TV 
-
+https://rds3gen.desdeparaguay.net/800tv/800tv/chunklist_w401949679.m3u8?k=fe128167a97f7011b067b4491582a72ddfe98e88421102f0330c1daa2070ab71&exp=1685573121
 #EXTINF:0,24 , Sur TV
 
 http://170.83.242.152:5350/play/a025
