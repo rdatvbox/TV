@@ -79,7 +79,7 @@ https://rds3gen.desdeparaguay.net/800tv/800tv/chunklist_w401949679.m3u8?k=fe1281
 http://170.83.242.152:5350/play/a025
 
 #EXTINF:0,25 , Ñandejara Ñe'e 
-
+http://tigocloud.desdeparaguay.net:80/nandejaraneetv/nandejaraneetv/media_w464383631_4138.ts
 #EXTINF:0,29 , RCC
 
 https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
